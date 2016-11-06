@@ -1,0 +1,33 @@
+<html>
+
+<head>
+
+<!--
+	Content created and developed by James Bryant
+	on 11/6/2016 
+--> 
+
+<title>James Bryant's Webpage</title>
+
+
+</head>
+
+<body>
+
+<h1 style="text-align: center">My Webpage Project</h1>
+
+<h2 style="text-align: center; color: blue">Introduction to the Internet</h2>
+
+<img src="D:\Files\Pictures\boot-me.jpg" alt="My Picture" />
+
+<p> Useful Links: </p>
+
+<a href="http://www.google.com/">Google Search Engine</a>
+
+<p>		 </p>
+
+<a href="http://www.youtube.com/">Youtube Video Streaming Service</a>
+
+</body>
+
+</html>
